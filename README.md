@@ -1,3 +1,3 @@
 # RockPaperScissors
 
-Small Rock Paper Scissors game displaying Java-Basics. 
+Small Rock Paper Scissors console application displaying Java-Basics. 
